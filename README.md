@@ -1,1 +1,1 @@
-# Brain_Tumour_Segmentation_SEM-6
+### Brain Tumour Segmentation using Image Processing Techniques.Refer to the report for the concepts.
