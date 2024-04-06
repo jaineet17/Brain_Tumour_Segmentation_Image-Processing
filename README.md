@@ -14,10 +14,6 @@ The process of segmenting a brain tumor from MRI images involves several key ste
 5. **Performing Morphological Opening:** Use erosion followed by dilation to remove noise.
 6. **Isolating the Tumor with the Watershed Algorithm:** Employ the watershed algorithm to precisely segment the tumor.
 
-![Tumor Segmentation Process](Final.png)
-
-*Figure: Segmentation results showing the isolated tumor.*
-
 ## Conclusion
 
 Brain tumor segmentation is pivotal for early diagnosis and effective treatment planning. The methodology presented here showcases a fundamental approach to segmentation using image processing techniques. Future work can explore more advanced methods such as thermal imaging, fuzzy clustering, and artificial neural networks to enhance segmentation accuracy and efficiency.
