@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project, developed by Ishaan Buch (18BCE079) and Jaineet Shah (18BCE083), tackles the critical challenge of segmenting brain tumors from MRI images. Utilizing OpenCV, Matplotlib, and Numpy, we've devised a methodology that segments tumors with precision, aiding in the diagnosis and treatment planning for brain tumors. This project outlines a basic segmentation process, highlighting the potential of image processing techniques in medical diagnosis.
+This project, developed by **Ishaan Buch** and **Jaineet Shah**, tackles the critical challenge of segmenting brain tumors from MRI images. Utilizing OpenCV, Matplotlib, and Numpy, we've devised a methodology that segments tumors with precision, aiding in the diagnosis and treatment planning for brain tumors. This project outlines a basic segmentation process, highlighting the potential of image-processing techniques in medical diagnosis.
 
 ## Segmentation Process
 
-The process to segment a brain tumor from MRI images involves several key steps:
+The process of segmenting a brain tumor from MRI images involves several key steps:
 1. **Converting to Grayscale:** Utilize OpenCV to convert MRI images to grayscale for further processing.
 2. **Applying Median Filter:** Implement median filtering to reduce noise without sacrificing edges.
 3. **Edge Detection using Sobel Filters:** Use Sobel filters to highlight edges, essential for detecting the boundaries of a tumor.
